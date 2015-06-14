@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This gem can help you with generating CSV file from collections of objects.}
   spec.description   = %q{CsvCreator provides nice, configurable interface which will generate CSV file for you, from collection you want (database or array with non-db related objects).}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/dsawa/csv_creator"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
