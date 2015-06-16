@@ -21,6 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Basic usage with default options (see below) is just by calling `create` method on `CsvCreator` module.
+There is also an alias method `generate`. It does the same thing and takes the same arguments.
 
 ```ruby
 CsvCreator.create(my_collection)

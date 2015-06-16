@@ -1,3 +1,5 @@
+require 'csv'
+
 module CsvCreator
   class Creator
     attr_reader :collection
