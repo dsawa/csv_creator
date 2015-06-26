@@ -27,6 +27,10 @@ There is also an alias method `generate`. It does the same thing and takes the s
 CsvCreator.create(my_collection)
 ```
 
+#### Rails
+
+Example application that shows how this gem can be used in Rails with Activerecord (works with Mongoid as well) is under [this link](https://github.com/dsawa/csv_creator_example).
+
 ### Options
 
 Options can be passed as second argument to the `create` method. The default options hash looks like this.
